@@ -1,0 +1,6 @@
+conda create -n mri_gan python=3.8
+conda activate mri_gan
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+conda install cudatoolkit -c pytorch
+conda install numpy pillow matplotlib
+conda install -c conda-forge tqdm
