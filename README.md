@@ -8,3 +8,4 @@ dataset link: [segmentation](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri
 2. 2026-01-21
 3. 2026-01-22
 4. 2026-01-23
+5. 2026-01-24
