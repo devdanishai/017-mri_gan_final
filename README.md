@@ -4,4 +4,4 @@ this is gan for mri project
 
 dataset link: [segmentation](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
 
-2026-06-05
+2026-07-28
